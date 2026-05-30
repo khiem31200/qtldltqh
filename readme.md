@@ -33,12 +33,6 @@ lưu vào thư mục `output/`.
 Hàm `main()` điều phối toàn bộ: tạo thư mục output, nạp từng CSV, làm sạch dữ liệu,
 gọi 4 hàm vẽ và in danh sách đường dẫn ảnh đã tạo.
 
-### Cách chạy
-
-```bash
-python src/create_visualizations.py
-```
-
 ## 3. Phân tích kết quả & các chỉ số đáng chú ý
 
 ### 3.1. `weather_heatmap.png` — Nhiệt độ TB theo thành phố × tháng
